@@ -14,3 +14,12 @@ Source: `rig.py` (procedural walk cycle), `icon.py` (renders frames).
 - [crosswalk.mp4](https://github.com/exmunc/walking-icon/raw/main/crosswalk.mp4)
 
 [Transcript](transcript.md)
+
+## Variant 3 — moonwalk (backward, Michael Jackson style)
+![moonwalk](moonwalk-icon.gif)
+
+- [moonwalk-icon.gif](https://github.com/exmunc/walking-icon/raw/main/moonwalk-icon.gif) — 600×600, 50 fps, 1.2 s loop
+- [moonwalk-icon.mp4](https://github.com/exmunc/walking-icon/raw/main/moonwalk-icon.mp4) — 10 loops
+
+## Variant 2, all black
+- [walk-icon-black.gif](https://github.com/exmunc/walking-icon/raw/main/walk-icon-black.gif)
